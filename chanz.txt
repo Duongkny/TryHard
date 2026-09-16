@@ -1,0 +1,4 @@
+Họ và tên: Tạ Thị Trang 
+Vai trò: Frontend Developer
+Giới thiệu: Tôi đang thực hành Git/GitHub bằng Fork App
+Branch: feature/chanz
