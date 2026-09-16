@@ -1,9 +1,0 @@
-Họ và tên: Nguyễn Tùng Dương
-
-Vai trò: Frontend Developer
-
-Giới thiệu:
-Mình làm mình làm mẩy :))
-
-Branch:
-feature/duongkny
